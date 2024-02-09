@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "Favourite": "Favourite",
+  "quote": "Quotes",
+  "chapter": "Chapter",
+
+  "no_favourite_is_added": "no Favourite is added",
+  "no_quotes_is_added": "no quotes is added",
+  "verb": "Verbs",
+
+  "no_available_slock": "slock not be avaialble",
+  "verb_screen": "Slock Screen",
+  "verb_meaning": "Meaning",
+  "verb_summary": "Summary"
+
+}
